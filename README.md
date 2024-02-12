@@ -1,4 +1,4 @@
-![logo width=400](https://github.com/Mahesh33217/Mahesh33217/blob/main/github%20banner%20img.jpg)
+![logo](https://github.com/Mahesh33217/Mahesh33217/blob/main/github%20banner%20img.jpg)
 <h1 align="center">Hi 👋, I'm Mahesh Anil Bhosale</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
