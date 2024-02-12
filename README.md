@@ -1,4 +1,5 @@
 ![logo](https://github.com/Mahesh33217/Mahesh33217/blob/main/github%20banner%20img.jpg)
+
 <h1 align="center">Hi 👋, I'm Mahesh Anil Bhosale</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
@@ -55,3 +56,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh33217&show_icons=true&locale=en&layout=compact" alt="mahesh33217" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh33217&show_icons=true&locale=en" alt="mahesh33217" /></p>
+
+<img align="left" width=200 height=200 alt="tom" src="https://c.tenor.com/iH3EYi0a39gAAAAC/kanahei-cheer.gif">
+<img align="right" width=200 height=200 alt="jerry" src="https://c.tenor.com/iH3EYi0a39gAAAAC/kanahei-cheer.gif">
