@@ -1,5 +1,4 @@
 ![logo](https://github.com/Mahesh33217/Mahesh33217/blob/main/github%20banner%20img.jpg)
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 <h1 align="center">Hi 👋, I'm Mahesh Anil Bhosale</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
