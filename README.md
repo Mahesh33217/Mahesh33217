@@ -8,7 +8,8 @@
 
 - 📫 How to reach me **maheshbhosale33217@gmail.com**
 
-- Resume **Resume**
+- <h3 align="left">Resume:</h3>
+<p align="left"><a href="" target="_blank" rel="noreferrer"> </a> </p>
 
 
 
