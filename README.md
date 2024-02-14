@@ -9,7 +9,7 @@
 - 📫 How to reach me **maheshbhosale33217@gmail.com**
 
 - <h3 align="left">Resume:</h3>
-<p align="left"><a href="" target="_blank" rel="noreferrer"> </a> </p>
+<p align="left"><a href="https://github.com/Mahesh33217/Mahesh33217/blob/85b8e4bf3e91af9cde7f0b7ff7d57f07a9166af9/Resume" target="_blank" rel="noreferrer"> </a> </p>
 
 
 
