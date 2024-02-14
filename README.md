@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **maheshbhosale33217@gmail.com**
 
-- Resume ****
+- Resume **Resume**
 
 
 
