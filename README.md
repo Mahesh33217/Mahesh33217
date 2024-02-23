@@ -64,3 +64,6 @@
 
 <img align="left" width=200 height=200 alt="tom" src="https://c.tenor.com/iH3EYi0a39gAAAAC/kanahei-cheer.gif">
 <img align="right" width=200 height=200 alt="jerry" src="https://c.tenor.com/iH3EYi0a39gAAAAC/kanahei-cheer.gif">
+
+
+<img  align="right" src="https://komarev.com/ghpvc/?username=parthsali&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
