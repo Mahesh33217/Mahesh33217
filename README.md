@@ -63,8 +63,8 @@
 ### Connect with me :
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mahesh-bhosale-39938a239)
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=blueviolet&logoColor=white" />](https://www.instagram.com/mahesh_.901/)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](**maheshbhosale33217@gmail.com**)
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/mahesh_.901/)
+[<img alt="YouTube" src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=Youtube&logoColor=white" />](www.youtube.com/@mab33217)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh33217&show_icons=true&locale=en&layout=compact" alt="mahesh33217" /></p>
