@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mahesh Anil Bhosale</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
+<img  align="right" src="https://komarev.com/ghpvc/?username=Mahesh33217&label=Profile%20views&color=blue&style=for-the-badge" alt="profile views" />
 
 
 - 🔭 I’m currently working on **Agricultural Eccomerce Website**
@@ -62,7 +63,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh33217&show_icons=true&locale=en" alt="mahesh33217" /></p>
 
-<img  align="right" src="https://komarev.com/ghpvc/?username=Mahesh33217&label=Profile%20views&color=blue&style=for-the-badge" alt="profile views" />
+ <br/>
 
 <p align='center'>Visitors Count <br><img align="center" alt="Repo Visitors" src="https://profile-counter.glitch.me/Mahesh33217/count.svg"/></p>
 
