@@ -62,6 +62,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh33217&show_icons=true&locale=en" alt="mahesh33217" /></p>
 
+<img  align="right" src="https://komarev.com/ghpvc/?username=Mahesh33217&label=Profile%20views&color=blue&style=for-the-badge" alt="profile views" />
+
 
 
 
