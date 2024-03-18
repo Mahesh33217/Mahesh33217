@@ -64,6 +64,8 @@
 
 <img  align="right" src="https://komarev.com/ghpvc/?username=Mahesh33217&label=Profile%20views&color=blue&style=for-the-badge" alt="profile views" />
 
+<p align='center'>Visitors Count <br><img align="center" alt="Repo Visitors" src="https://profile-counter.glitch.me/Mahesh33217/count.svg"/></p>
+
 
 
 
