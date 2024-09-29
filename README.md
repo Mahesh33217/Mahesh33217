@@ -13,12 +13,22 @@
 - **Email**: maheshbhosale33217@gmail.com
 
 ---
-
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding" width="350" height="350"/>
+  <a href="https://your-portfolio-url.com" target="_blank">
+    <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" 
+         alt="coding" width="350" height="350" 
+         style="border-radius: 50%; border: 5px solid #61DAFB; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease;" 
+         onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh33217&show_icons=true&theme=radical" 
+       alt="GitHub Stats" style="margin-top: 20px;" />
 </div>
 
+
 ---
+
+
 
 ### 💻 Tech Stack
 
