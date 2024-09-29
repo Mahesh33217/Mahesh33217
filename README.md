@@ -13,7 +13,7 @@
 - **Email**: maheshbhosale33217@gmail.com
 
 ---
-<div align="center">
+<div align="center" style="margin-top: -10px;">
   <a href="https://your-portfolio-url.com" target="_blank">
     <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" 
          alt="coding" width="350" height="350" 
@@ -22,9 +22,8 @@
   </a>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Mahesh33217&show_icons=true&theme=radical" 
-       alt="GitHub Stats" style="margin-top: 20px;" />
+       alt="GitHub Stats" style="margin-top: 10px;" />
 </div>
-
 
 ---
 
